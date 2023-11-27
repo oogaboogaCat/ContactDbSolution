@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactDbLib", "ContactDbLib\ContactDbLib.csproj", "{9FF67F53-A634-4F9A-9929-AC251365AC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF67F53-A634-4F9A-9929-AC251365AC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF67F53-A634-4F9A-9929-AC251365AC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF67F53-A634-4F9A-9929-AC251365AC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF67F53-A634-4F9A-9929-AC251365AC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
