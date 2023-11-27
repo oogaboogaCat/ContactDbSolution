@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ContactDbLib"
   ],
+  "SelectedNode": "\\ContactDbLib\\SqlRepository.cs",
   "PreviewInSolutionExplorer": false
 }
